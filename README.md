@@ -6,3 +6,4 @@ This is the sample application for
 by [Michael Hartl](http://michaelhartl.com/).
 
 # Modified by Vu to trigger jenkins.
+Changed in master branch
